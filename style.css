@@ -1,0 +1,33 @@
+/* Write your CSS below. Try to make it responsive (i.e. no horizontal scroll) */
+
+#bookpanda{
+    color:#f1468b;
+    margin-top: 0;
+
+}
+.heading{
+    color: #f91919;
+
+}
+#ReadMore{
+    color: blue;
+}
+.strong{
+    display: block;
+}
+#addtocart{
+    background-color:#f990e2;
+    padding: 16px 100px;
+    color: white;
+}
+.flex{
+    display:flex;
+}
+.padding{
+    padding-left:25px;
+}
+.para{
+    display: inline;
+}
+
+
